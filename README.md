@@ -1,4 +1,4 @@
-"C#" .Net Framework ile Media Player uygulaması yapmayı düşünüyorum. Görsel olarak basit fakat kullanışlı bir Medya Oynatıcı (Media Player) olacak. Microsoft Visual Studio ile yapılması daha kolay olduğu için oradan yapacağım. Media Player ileri, geri, start ve pause butonlarından ibaret olacak. Medyanı büyük ekranda gösterecek. Tabii ki X button yani çıkma tuşu da olacak. Aşağıda size tam anlamıyla neyi nasıl yapmak istedğimi anlatacağım.
+"C#" .Net Framework ile Media Player uygulaması yapmayı düşünüyorum. Görsel olarak basit fakat kullanışlı bir Medya Oynatıcı (Media Player) olacak. Uygulamanı Microsoft Visual Studio ile yapacağım. Media Player ileri, geri, start ve pause butonlarından ibaret olacak. Medyanı büyük ekranda gösterecek. Tabii ki X button yani çıkma tuşu da olacak. Aşağıda size tam anlamıyla neyi nasıl yapmak istedğimi anlatacağım.
 
 Adım 1: Proje Oluşturma
 Visual Studio gibi bir entegre geliştirme ortamı (IDE) kullanarak yeni bir C# Console Uygulaması projesi oluşturacağım.
