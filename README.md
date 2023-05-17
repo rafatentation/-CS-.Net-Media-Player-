@@ -10,7 +10,7 @@ Adım 3: Arayüz Tasarımı
 Windows Forms üzerinde bir kullanıcı arayüzü tasarlayarak, arayüzünüzde bir medya oynatıcı kontrolü, bir oynatma düğmesi, duraklatma düğmesi, durdurma düğmesi ve medya dosyasının adını görüntüleyen bir etiket gibi bileşenler bulunduracağım. Ayrıca, dosya seçmek için bir "Aç" düğmesi de ekleyeceğim.
 
 Adım 4: Medya Oynatıcısı Kontrolü
-Bu kontrol, medya dosyalarını yüklemek, oynatmak, duraklatmak ve durdurmak için kullanılacaktır. A
+Bu kontrol, medya dosyalarını yüklemek, oynatmak, duraklatmak ve durdurmak için kullanılacaktır.
 
 Adım 5: Dosya Seçme İşlemi
 "Aç" düğmesine tıklandığınızda, kullanıcıya bir dosya seçme iletişim kutusu açılacaktır. Seçilen medya dosyasını yüklemek için dosya seçme işleminden dönen dosya yolunu kullanabilirsiniz.
