@@ -1,0 +1,16 @@
+D:\Media Player\Media Player\Media Player\bin\Debug\Media Player.exe.config
+D:\Media Player\Media Player\Media Player\bin\Debug\Media Player.exe
+D:\Media Player\Media Player\Media Player\bin\Debug\Media Player.pdb
+D:\Media Player\Media Player\Media Player\bin\Debug\Interop.WMPLib.dll
+D:\Media Player\Media Player\Media Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Media Player\Media Player\Media Player\obj\Debug\Media Player.csproj.AssemblyReference.cache
+D:\Media Player\Media Player\Media Player\obj\Debug\Media Player.csproj.SuggestedBindingRedirects.cache
+D:\Media Player\Media Player\Media Player\obj\Debug\Interop.WMPLib.dll
+D:\Media Player\Media Player\Media Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Media Player\Media Player\Media Player\obj\Debug\Media Player.csproj.ResolveComReference.cache
+D:\Media Player\Media Player\Media Player\obj\Debug\Media_Player.Properties.Resources.resources
+D:\Media Player\Media Player\Media Player\obj\Debug\Media Player.csproj.GenerateResource.cache
+D:\Media Player\Media Player\Media Player\obj\Debug\Media Player.csproj.CoreCompileInputs.cache
+D:\Media Player\Media Player\Media Player\obj\Debug\Media Player.exe
+D:\Media Player\Media Player\Media Player\obj\Debug\Media Player.pdb
+D:\Media Player\Media Player\Media Player\obj\Debug\Media_Player.mediaplayer.resources
